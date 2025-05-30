@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=TX3V3 Pin=R6-1
+Removed Pin From Net: NetName=RX5V Pin=R7-1
+Removed Pin From Net: NetName=RX3V3 Pin=U3-2
+Removed Pin From Net: NetName=TX3V3 Pin=U3-3
+Removed Pin From Net: NetName=TX5V Pin=U3-12
+Removed Pin From Net: NetName=RX5V Pin=U3-13
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Added Pin To Net: NetName=RX3V3 Pin=R6-1
+Added Pin To Net: NetName=TX5V Pin=R7-1
+Added Pin To Net: NetName=TX3V3 Pin=U3-2
+Added Pin To Net: NetName=RX3V3 Pin=U3-3
+Added Pin To Net: NetName=RX5V Pin=U3-12
+Added Pin To Net: NetName=TX5V Pin=U3-13

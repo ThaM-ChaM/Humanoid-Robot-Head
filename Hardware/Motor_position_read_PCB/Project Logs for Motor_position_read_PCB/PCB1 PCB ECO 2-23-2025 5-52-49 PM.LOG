@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RX3V3 Pin=R6-1
+Removed Pin From Net: NetName=TX3V3 Pin=U3-2
+Removed Pin From Net: NetName=RX3V3 Pin=U3-3
+Added Pin To Net: NetName=TX3V3 Pin=R6-1
+Added Pin To Net: NetName=RX3V3 Pin=U3-2
+Added Pin To Net: NetName=TX3V3 Pin=U3-3
+Change Net Name : Old Net Name=RX5V New Net Name=TX5V
+Change Net Name : Old Net Name=TX5V New Net Name=RX5V

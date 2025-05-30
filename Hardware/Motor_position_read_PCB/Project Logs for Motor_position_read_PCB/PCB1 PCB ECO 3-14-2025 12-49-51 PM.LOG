@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=TX3V3 Pin=R6-1
+Removed Pin From Net: NetName=RX3V3 Pin=R7-1
+Removed Pin From Net: NetName=RX3V3 Pin=U3-2
+Removed Pin From Net: NetName=TX3V3 Pin=U3-4
+Added Pin To Net: NetName=RX3V3 Pin=R6-1
+Added Pin To Net: NetName=TX3V3 Pin=R7-1
+Added Pin To Net: NetName=TX3V3 Pin=U3-2
+Added Pin To Net: NetName=RX3V3 Pin=U3-4
+Change Net Name : Old Net Name=RX5V New Net Name=TX5V
+Change Net Name : Old Net Name=TX5V New Net Name=RX5V
+Added Member To Class: ClassName=Sheet2 Member=Component R6 220R
+Added Rule: Name=Schematic Width Constraint_6
+Added Rule: Name=Schematic Width Constraint_7
+Added Rule: Name=Schematic Width Constraint_8
+Added Rule: Name=Schematic Width Constraint_9
+Added Rule: Name=Schematic Width Constraint_10
+Added Rule: Name=Schematic Width Constraint_11
+Added Rule: Name=Schematic Width Constraint_12
+Added Rule: Name=Schematic Width Constraint_13
+Added Rule: Name=Schematic Width Constraint_14
+Added Rule: Name=Schematic Width Constraint_15
